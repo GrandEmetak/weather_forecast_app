@@ -1,6 +1,7 @@
 # weather_reactive
 
 ![GitHub top language](https://img.shields.io/github/languages/top/SlartiBartFast-art/weather_reactive?logo=java&logoColor=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/SlartiBartFast-art/weather_reactive?logo=github)
 
 Приложение прогноз погоды. Работать оно будет в режиме реактивного программирования.
 
