@@ -1,4 +1,4 @@
-package ru.job4j.weather.model;
+package weather.forecast.model;
 
 /**
  * Модель позволяет получить детали по городу и список городов.

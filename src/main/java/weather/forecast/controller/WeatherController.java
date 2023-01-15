@@ -1,4 +1,4 @@
-package ru.job4j.weather.controller;
+package weather.forecast.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import reactor.util.function.Tuple2;
-import ru.job4j.weather.model.Weather;
-import ru.job4j.weather.service.WeatherService;
+import weather.forecast.model.Weather;
+import weather.forecast.service.WeatherService;
 
 import java.time.Duration;
 

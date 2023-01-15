@@ -1,4 +1,4 @@
-package ru.job4j.weather;
+package weather.forecast;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

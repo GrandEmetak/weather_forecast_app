@@ -1,10 +1,10 @@
-package ru.job4j.weather.service;
+package weather.forecast.service;
 
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-import ru.job4j.weather.model.Weather;
-import ru.job4j.weather.repository.WeatherRepo;
+import weather.forecast.model.Weather;
+import weather.forecast.repository.WeatherRepo;
 
 @Service
 public class WeatherService {

@@ -1,8 +1,8 @@
-package ru.job4j.weather.repository;
+package weather.forecast.repository;
 
 import org.springframework.stereotype.Repository;
 
-import ru.job4j.weather.model.Weather;
+import weather.forecast.model.Weather;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
