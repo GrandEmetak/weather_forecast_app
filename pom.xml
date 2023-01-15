@@ -8,11 +8,11 @@
         <version>2.6.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ru.job4j.weather</groupId>
+    <groupId>weather.forecast</groupId>
     <artifactId>weather_reactive</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>weather_reactive</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Light version Weather forecast app</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
